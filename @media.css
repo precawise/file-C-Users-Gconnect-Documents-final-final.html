@@ -1,0 +1,154 @@
+@media (max-width: 768px){
+    header{
+        font-family: Arial, Helvetica, sans-serif;
+        width: 100%;
+        margin-top: 80px;
+        background: red;
+    }
+.grate{
+    margin-top: 4px;
+}
+.cregital{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.story{
+    margin-top: -15px;
+    font-weight: bolder;
+}
+.story:hover{
+    box-shadow: 2px;
+    color: blue;
+}
+.story:span{
+    ruby-span: 5px;
+}
+.img{
+    width: 100%;
+}
+.image{
+    width: 90%;
+    height: 360px;
+    margin-left: 50px;
+    margin-top: 15%;
+    position: static;
+    float: left;
+}
+.zenith{
+   margin-top: -180px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.zenn{
+    margin-left: 90px;
+    margin-top: -190px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.images{ 
+    width: 90%;
+    height: 365px;
+    position: static;
+    margin-top: 5%;
+    display: block;
+    float: left;
+}
+.elementor{ 
+    margin-left: 90px;
+    margin-top: 220px;
+    font-size: 22px;
+}
+
+.zennn{ 
+    margin-left: 90px;
+    margin-top: 205px;
+    font-size: 20px;
+
+}
+
+
+.random{
+    width: 90%;
+    height: 360px;
+    float:left;
+}
+.rann{
+    float:left;
+    font-size: 30px;
+}
+.rannn{
+    margin-left: 100px;
+    margin-top: 5px;
+    float:left;
+}
+
+.little{
+    width: 90%;
+    height: 360px;
+    margin-top: 20px;
+    float: left;
+
+}
+.liee{
+    margin-left: 95px;
+    margin-top: 450px;
+    float:left;
+    font-size: 25px;
+}
+.lieee{  
+    margin-left: 95px;
+    margin-top: 410px;
+    font-size: 20px;
+}
+
+.web{ 
+    width: 90%;
+    height: 360px;
+}
+
+.webb{
+    margin-left: 100px;
+    margin-top: 260px;
+}
+.webbb{
+    margin-left: 100px;
+    margin-top: 290px;
+}
+.response{  
+    width: 90%;
+    height: 360px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.restt{
+    margin-left: 90px;
+    margin-top: 600px;
+}
+.resttt{
+    margin-left: 90px;
+    margin-top:  610px;
+}
+float{
+    float: none;
+}
+
+.what{  
+    font-size: 30px;
+    color: white;
+    margin-left: 850px;
+    box-sizing: border-box;
+    width: 35%;
+}
+.offer{
+    font-size: 20px;
+    margin-top: 790px;
+    width: 90%;
+}
+.offer2{
+    margin-top: 790px;
+    width:90%;
+
+}
+}

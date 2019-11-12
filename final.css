@@ -1,0 +1,284 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    margin-top: 80px;
+}
+.too{
+    margin-top: -50px;
+}
+.grace{
+    margin-left: 50px;;
+    flex-wrap: wrap; 
+    position: absolute; 
+}
+.grate{
+    margin-left: 100px;
+    float: left;
+    margin-top: 5px;
+}
+.story{
+    text-decoration: none;
+    flex-wrap: wrap;
+    position: relative;
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    margin-top: -15px;
+}
+.middle{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+}
+.cregital{
+    color: black;
+    padding-top: 15%;
+    font-size: 50px;
+}
+.img{
+    width: 100%;
+}
+.image{
+    width: 50%;
+    height: 560px;
+    margin-left: 50px;
+    margin-top: 15%;
+    float: left;
+}
+.zenith{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 90px;
+    top: 740px;
+    color: white;
+    font-size: 30px;
+    float: left;
+    font-weight: bolder;
+}
+.zenn{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 90px;
+    top: 780px;
+    font-size: 25px;
+    color: white;
+    font-weight: bolder;
+}
+.images{ 
+    width: 42%;
+    height: 560px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -42%;
+    float: right;
+}
+.elementor{ 
+    text-decoration: none;
+    position: absolute;
+    margin-left: 58%;
+    top: 740px;
+    color: black;
+    float: right;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.zennn{ 
+    text-decoration: none;
+    position: absolute;
+    margin-left: 58%;
+    top: 800px;
+    color: black;
+    font-size: 25px;
+    float: right;
+    font-weight: bolder;
+
+}
+.random{
+    width: 45%;
+    height: 560px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+    float:left;
+}
+.rann{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 100px;
+    top: 190%;
+    color: white;
+    float:left;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.rannn{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 100px;
+    top: 200%;
+    color: white;
+    float:left;;
+    font-weight: bolder;
+}
+.little{
+    width: 49%;
+    height: 560px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -560px;
+    float: right;
+
+}
+.liee{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 750px;
+    top: 190%;
+    color: white;
+    float:left;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.lieee{  
+    text-decoration: none;
+    position: absolute;
+    margin-left: 750px;
+    top: 200%;
+    color: white;
+    float:left;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.web{ 
+    width: 45%;
+    height: 560px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+    float:left;
+}
+.webb{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 100px;
+    top: 275%;
+    color: white;
+    float:left;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.webbb{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 100px;
+    top: 279%;
+    color: white;
+    float:left;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.response{  
+    width: 49%;
+    height: 560px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -560px;
+    float: right;
+}
+.restt{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 700px;
+    top: 279%;
+    color: white;
+    float:left;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.resttt{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 700px;
+    top: 285%;
+    color: white;
+    font-size: 25px;
+    float:left;
+    font-weight: bolder;
+}
+float{
+    float: none;
+}
+.what{  
+    color: black;
+    font-size: 30px;
+    margin-left: 50px;
+    box-sizing: border-box;
+    width: 35%;
+}
+.offer{
+    color: black;
+    font-size: 30px;
+    margin-left: 50px;
+    box-sizing: border-box;
+    width: 35%;
+}
+.offer2{
+    position: absolute;
+    margin-top: 150%;
+}
+.brandd{
+    margin-top: 40%;
+    float: left;
+    margin-left: 60px;
+    font-size: 25px;
+}
+.branddd{
+    margin-top: 40%;
+    float: left;
+    margin-left:100px;
+    font-size: 25px;
+}
+.brand{
+    margin-top: 40%;
+    float: left;
+    margin-left:300px;
+    font-size: 25px;
+}
+.happen{
+    margin-left: 50px;
+    font-size: 20px;
+    width: 50%;
+    font-weight: bolder;
+}
+#custom{
+    background: #e8f8f8;
+    margin-top: 10%;
+    height: 350px;
+}
+.textwidget{
+    padding-bottom: 30px;
+}
+.footer-heading{
+    color: inherit;
+    padding-top: 50px;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.footer-head{
+     color: initial;
+     margin-left: 100px;
+     font-size: 25px;
+     font-weight: bolder;
+}
+.ascent{
+    padding: 8px;
+    margin-left: 100px;
+}
+.text{
+    padding: 8px;
+    text-decoration: none;
+    background: blue;
+    color: white;
+    text-decoration: none;
+}
